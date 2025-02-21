@@ -1,0 +1,15 @@
+{
+    "command": "/hafiza",
+    "answer": "🕹️ **Hafiza_Oyunu!**\nBir önceki ekranda gösterilen renk neydi?",
+    "buttons": [
+        [
+            "Seçenek 1",
+            "Seçenek 2",
+            "Seçenek 3",
+            "Seçenek 4"
+        ]
+    ],
+    "correct_answer": null,
+    "correct_answer_response": "✅ Doğru!",
+    "wrong_answer_response": "❌ Yanlış! Tekrar deneyin."
+}

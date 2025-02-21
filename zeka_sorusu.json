@@ -1,0 +1,15 @@
+{
+    "command": "/zeka",
+    "answer": "🕹️ **Zeka_Sorusu!**\nBir adamın 3 oğlu vardı: Ali, Veli ve ____?",
+    "buttons": [
+        [
+            "Seçenek 1",
+            "Seçenek 2",
+            "Seçenek 3",
+            "Seçenek 4"
+        ]
+    ],
+    "correct_answer": "Oğlu",
+    "correct_answer_response": "✅ Doğru!",
+    "wrong_answer_response": "❌ Yanlış! Tekrar deneyin."
+}

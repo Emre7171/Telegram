@@ -1,0 +1,15 @@
+{
+    "command": "/kelime_oyunu",
+    "answer": "🕹️ **Kelime_Oyunu!**\nH, A, V, A, L, A, N",
+    "buttons": [
+        [
+            "Seçenek 1",
+            "Seçenek 2",
+            "Seçenek 3",
+            "Seçenek 4"
+        ]
+    ],
+    "correct_answer": "HAVA",
+    "correct_answer_response": "✅ Doğru!",
+    "wrong_answer_response": "❌ Yanlış! Tekrar deneyin."
+}

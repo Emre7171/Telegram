@@ -1,0 +1,15 @@
+{
+    "command": "/sayi_tahmin",
+    "answer": "🕹️ **Sayi_Tahmin!**\n1 ile 10 arasında bir sayı tuttum. Hangi sayı?",
+    "buttons": [
+        [
+            "Seçenek 1",
+            "Seçenek 2",
+            "Seçenek 3",
+            "Seçenek 4"
+        ]
+    ],
+    "correct_answer": "7",
+    "correct_answer_response": "✅ Doğru!",
+    "wrong_answer_response": "❌ Yanlış! Tekrar deneyin."
+}

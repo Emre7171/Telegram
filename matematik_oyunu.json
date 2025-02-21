@@ -1,0 +1,15 @@
+{
+    "command": "/matematik",
+    "answer": "🕹️ **Matematik_Oyunu!**\n10 + 5 x 2 işleminin sonucu?",
+    "buttons": [
+        [
+            "Seçenek 1",
+            "Seçenek 2",
+            "Seçenek 3",
+            "Seçenek 4"
+        ]
+    ],
+    "correct_answer": "20",
+    "correct_answer_response": "✅ Doğru!",
+    "wrong_answer_response": "❌ Yanlış! Tekrar deneyin."
+}
